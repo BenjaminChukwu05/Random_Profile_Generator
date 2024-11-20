@@ -39,7 +39,7 @@ const displayUser = (user) => {
                   <span class="font-bold">Phone: </span> ${user.phone}
                 </p>
                 <p class="text-xl">
-                  <span class="font-bold">Location: </span> ${user.location}
+                  <span class="font-bold">Location: </span> ${user.location.city} ${user.location.country}
                 </p>
                 <p class="text-xl"><span class="font-bold">Age: </span> ${user.dob.age}</p>
           </div>
