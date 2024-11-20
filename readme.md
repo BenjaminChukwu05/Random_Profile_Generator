@@ -1,7 +1,3 @@
-Here’s a detailed yet beginner-friendly **README.md** file for your random profile generator project:
-
----
-
 # **Random Profile Generator**
 
 ## **Project Overview**
